@@ -1,0 +1,17 @@
+e:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\bin\Debug\Plugin3.dll
+e:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\bin\Debug\Plugin3.pdb
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Plugins\Plugin3.dll
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Host\bin\Debug\Plugins\Plugin3.pdb
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\ResolveAssemblyReference.cache
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\Plugin3.ctlMain.resources
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\Plugin3.dll
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\Plugin3.pdb
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\GenerateResource.read.1.tlog
+E:\Downloads\Codeproject\PluginsInCSharp_source\PluginPrototype\Plugin3\obj\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\VS2010\PluginPrototype\Host\bin\Debug\Plugins\Plugin3.dll
+E:\Dropbox\VS2010\PluginPrototype\Host\bin\Debug\Plugins\Plugin3.pdb
+E:\Dropbox\VS2010\PluginPrototype\Plugin3\obj\Debug\Plugin3.ctlMain.resources
+E:\Dropbox\VS2010\PluginPrototype\Plugin3\obj\Debug\Plugin3.dll
+E:\Dropbox\VS2010\PluginPrototype\Plugin3\obj\Debug\Plugin3.pdb
+E:\Dropbox\VS2010\PluginPrototype\Plugin3\obj\Debug\Plugin3.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS2010\PluginPrototype\Plugin3\obj\Debug\Plugin3.csproj.GenerateResource.Cache
